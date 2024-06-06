@@ -1,21 +1,23 @@
-# 📦 Streamlit App Starter Kit 
+# 📦 Streamlit App ML demo  
 ```
-⬆️ (ML app's name)
+⬆️ (ML appdemo)
 ```
 
-Description of the app ...
+ML model building demo  ...
 
 ## Demo App
+https://ml-app-llm.streamlit.app/
+![image](https://github.com/njasharp/ml-app/assets/39777038/f69e12e2-c304-4ff8-9183-cd3efbdcaf0b)
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ml-model-builder-template.streamlit.app/)
+
 
 ## Section Heading
 
-This is filler text, please replace this with text for this section.
+This is text for this section.
 
 ## Further Reading
 
-This is filler text, please replace this with a explanatory text about further relevant resources for this repo
+This is text about further relevant resources for this repo
 - Resource 1
 - Resource 2
 - Resource 3
