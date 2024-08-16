@@ -43,4 +43,3 @@ for image_file in image_files:
 
 st.info("Build by DW 8-15-23")
 # Display the build signature
-st.markdown("<div style='text-align: center; background-color: #1f3b4d; padding: 10px; border-radius: 10px;'><span style='color: white;'>Build by DW 8-15-23</span></div>", unsafe_allow_html=True)
