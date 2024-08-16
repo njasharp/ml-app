@@ -20,7 +20,7 @@ image_files = [
 ]
 
 # Load and display the custom header image
-header_image_path = "./store/image.png"
+header_image_path = "./store/image.PNG"
 header_image = Image.open(header_image_path)
 
 st.image(header_image, use_column_width=True)
